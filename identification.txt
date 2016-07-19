@@ -1,0 +1,19 @@
+=============Questions================
+a.) Explain in your own words the term "single-threaded"
+b.) In your own words, what is "event driven architecture"
+c.) What are the benefits of a javascript module
+d.) Give two implementations of javascript module
+e.) In you own words, what is a module bundler.
+
+=============Answers=================
+
+A.)For me from its word; SINLGE, Single-threaded means doing a certain task at a certain point of time. For example is how CPU processes, it is by giving every single task a so called "CPU TIME" so that all the tasks or programms will be accomodated accordingly to its commands or functions.
+
+B.)An Event driven Architecture is like a function that pushes about the behavior status of an event or any process that is significant to the hardware or software system.
+
+C.)For me one of the benefits of JS Module is that it promotes self-contained codes.
+
+D.) //..Node.js or CommonJS
+   //..AMD (Asynchronous Module Definition)
+
+E.)For me Module Bundler is like putting altogether a group of modules in a single file orderly.
